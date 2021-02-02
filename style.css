@@ -17,6 +17,17 @@ input[type=button], input[type=submit], input[type=reset] {
     margin: 20px;
     
   }
+
+  table, td, th {
+    border: 5px solid rgba(58, 47, 47, 0.966);
+    border-collapse: collapse;  
+    padding: 15px;
+    border-spacing: 3px;
+    margin-top: 85px;
+    text-align: center;
+ 
+}
+
   
 
 
